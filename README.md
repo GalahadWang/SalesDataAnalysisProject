@@ -89,5 +89,9 @@ Execute the scripts in the following order to perform the complete analysis:
 
 ## Acknowledgments
 
-- Data provided by H&M.
-- Project inspired by H&M.
+- This project utilizes publicly available or anonymized data originally derived from retail sales analysis.
+- The project is solely for **technical demonstration and portfolio purposes** and is **not affiliated with, endorsed by, or officially associated with any company, including H&M**.
+
+### Disclaimer
+This repository is for educational and portfolio purposes only. The data used in this project has been anonymized and does not represent any real-world company or commercial use case. No proprietary or confidential information is included.
+
